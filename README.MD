@@ -6,10 +6,10 @@ Compile NSPLK_app and start it. It will log "OK" every sec if everything is okay
 ### How to actually use it?
 
 
-![изображение](doc/img1.png)
+![изображение](docs/img1.png)
 
-![изображение](doc/img2.png)
+![изображение](docs/img2.png)
 
-![изображение](doc/img4.png)
+![изображение](docs/img4.png)
 
 

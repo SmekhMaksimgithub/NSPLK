@@ -4,7 +4,7 @@
 
 ### Things you need to do before using
 * #### Start NSPLK device and pair it (HC-05) with your pc via bluetooth
-* #### Compile NSPLK_app and start it. It will log "OK" every 2 seconds if everything is okay.
+* #### Compile NSPLK_app and start it. It will log "OK" every second if everything is okay.
 ![img](docs/img0.jpg)
 
 
